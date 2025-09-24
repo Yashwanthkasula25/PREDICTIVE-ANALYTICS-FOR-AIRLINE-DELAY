@@ -12,12 +12,4 @@ A complete full-stack web application that uses **machine learning** to predict 
 - **Database**: SQLite
 - **Emailing**: SMTP (Gmail recommended for OTP/password reset)
 
----
 
-## 🔧 Setup Instructions
-
-### 📁 Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/flight-delay-predictor.git
-cd flight-delay-predictor
